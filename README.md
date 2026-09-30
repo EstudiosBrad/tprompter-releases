@@ -1,6 +1,6 @@
 # TPrompter — instaladores
 
-**Versão atual: 2.0.2** — baixe em **[Releases](https://github.com/EstudiosBrad/tprompter-releases/releases/latest)**.
+**Versão atual: 2.1.0** — baixe em **[Releases](https://github.com/EstudiosBrad/tprompter-releases/releases/latest)**.
 O que mudou em cada versão está nas notas de cada release.
 
 O **TPrompter** é o teleprompter dos Estúdios Bradesco. Aqui ficam só os arquivos de
@@ -45,6 +45,11 @@ O app não é assinado digitalmente, então o sistema reclama uma vez:
 - **Windows** — no `.zip`, extraia a pasta onde quiser (Documentos, Área de Trabalho,
   pendrive) e abra o `TPrompter.exe`. Nada vai para o registro e não há instalador
   rodando. Se aparecer o aviso azul do Windows, clique em **Mais informações → Executar assim mesmo**.
+
+Depois, o app abre na tela de **licença**: **COMEÇAR TESTE** (7 dias grátis) ou **JÁ
+TENHO UMA LICENÇA** (cole a chave que você recebeu). Em rede que bloqueia o servidor de
+licenças, use a **chave sem internet** (começa com `TPO.`): ela ativa sem internet e não
+expira.
 
 Nos dois, se o firewall perguntar, **permita o acesso em redes privadas** — sem isso os
 celulares não conectam no computador.
