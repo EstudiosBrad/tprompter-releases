@@ -1,6 +1,6 @@
 # TPrompter — instaladores
 
-**Versão atual: 2.1.0** — baixe em **[Releases](https://github.com/EstudiosBrad/tprompter-releases/releases/latest)**.
+**Versão atual: 2.1.1** — baixe em **[Releases](https://github.com/EstudiosBrad/tprompter-releases/releases/latest)**.
 O que mudou em cada versão está nas notas de cada release.
 
 O **TPrompter** é o teleprompter dos Estúdios Bradesco. Aqui ficam só os arquivos de
