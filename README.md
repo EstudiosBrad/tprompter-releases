@@ -3,7 +3,7 @@
 **Versão atual: 2.1.1** — baixe em **[Releases](https://github.com/EstudiosBrad/tprompter-releases/releases/latest)**.
 O que mudou em cada versão está nas notas de cada release.
 
-O **TPrompter** é o teleprompter dos Estúdios Bradesco. Aqui ficam só os arquivos de
+O **TPrompter** é um teleprompter de estúdio para Windows e Mac. Aqui ficam só os arquivos de
 instalação; o código-fonte é privado.
 
 ## O que o app faz
