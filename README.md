@@ -1,6 +1,6 @@
 # TPrompter — instaladores
 
-**Versão atual: 2.1.2** — baixe em **[Releases](https://github.com/EstudiosBrad/tprompter-releases/releases/latest)**.
+**Versão atual: 2.1.3** — baixe em **[Releases](https://github.com/EstudiosBrad/tprompter-releases/releases/latest)**.
 O que mudou em cada versão está nas notas de cada release.
 
 O **TPrompter** é um teleprompter de estúdio para Windows e Mac. Aqui ficam só os arquivos de
@@ -9,7 +9,7 @@ instalação; o código-fonte é privado.
 ## O que o app faz
 
 - **Duas janelas:** a do operador, onde se escreve e formata o roteiro, e a do vidro do TP,
-  espelhada, em tela cheia na outra tela. Com duas telas abre também o **monitor do
+  espelhada, em tela cheia na outra tela. Com duas telas abre sempre também o **monitor do
   operador**, a cópia do vidro com os comandos.
 - **O editor é o vidro:** mesma fonte, tamanho, largura e quebra de linha do TP. Dá para
   **corrigir no ar** sem tirar do ar, com desfazer.
