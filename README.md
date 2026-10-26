@@ -1,6 +1,6 @@
 # TPrompter — instaladores
 
-**Versão atual: 2.1.3** — baixe em **[Releases](https://github.com/EstudiosBrad/tprompter-releases/releases/latest)**.
+**Versão atual: 2.1.4** — baixe em **[Releases](https://github.com/EstudiosBrad/tprompter-releases/releases/latest)**.
 O que mudou em cada versão está nas notas de cada release.
 
 O **TPrompter** é um teleprompter de estúdio para Windows e Mac. Aqui ficam só os arquivos de
@@ -20,7 +20,7 @@ instalação; o código-fonte é privado.
   no vidro** (cronômetro e o que resta), espaço entre letras, espelho horizontal e vertical.
 - **Outros alfabetos:** fontes para chinês (simplificado e tradicional), japonês, coreano,
   russo, árabe (da direita para a esquerda) e hindi.
-- **Controle:** roda do mouse como acelerador, teclado, **pedal, passador de slides e
+- **Controle:** roda do mouse como acelerador (com sensibilidade ajustável), teclado, **pedal, passador de slides e
   Stream Deck** (a tecla de cada comando é escolhida por máquina), velocidades fixas.
 - **Celular:** controle remoto com fader, shuttle e retorno do vidro, pela rede do estúdio
   ou pela nuvem — até sem computador, só com celulares.
